@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://8j8vf41osgb1"
+path="res://.godot/imported/metal pipe falling Earrape but its in reverse.ogg-b4d28e85a0acc6cd289ae4d53767c5f1.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/metal pipe falling Earrape but its in reverse.ogg"
+dest_files=["res://.godot/imported/metal pipe falling Earrape but its in reverse.ogg-b4d28e85a0acc6cd289ae4d53767c5f1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
